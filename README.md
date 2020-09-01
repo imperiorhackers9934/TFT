@@ -1,6 +1,6 @@
 # TFT
 This Tool Helps You to Install Basic Packages in Your Termux
-Commans to Install
+Commands to Install :~
 $pkg install git
 $pkg install python
 $git clone (link)
